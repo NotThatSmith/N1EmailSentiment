@@ -1,0 +1,21 @@
+{
+  "name": "MessageSentiment",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotThatSmith/N1EmailSentiment.git"
+  },
+  "engines": {
+    "nylas": ">=0.4.402"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "description": "N1 Email Sentiment Plugin",
+  "dependencies": {
+    "xhr": "^2.3.2"
+  },
+  "license": "MIT"
+}
