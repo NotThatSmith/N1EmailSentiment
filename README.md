@@ -1,7 +1,7 @@
 
 ## N1 Email Sentiment Plugin
 
-An N1 plugin to let you know the sentiment information of your email.
+An [N1](https://github.com/nylas/N1) plugin to let you know the sentiment information of your email.
 
 ![Demo](./demo.png)
 
